@@ -1,11 +1,10 @@
-.F8-container{
+h1{
+  color: white;
     position: absolute;
-    left: 35%;
-    top: 40%;
+    left: 40%;
+    top: 15%;
     width: 120px;
-  }
-  
-  h1{
     text-align: center;
     font-size: xx-large;
-    font-family: Baloon Pops;
+    font: Balloon Pops;
+  }
