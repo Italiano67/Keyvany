@@ -8,4 +8,10 @@
   h1{
     text-align: center;
     font-size: xx-large;
-    font-family: Baloon Pops;
+    font-family: Balloon Pops;
+
+
+.rs6-container{
+  position: absolute;
+  down: 10%;
+}
