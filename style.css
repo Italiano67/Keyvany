@@ -1,3 +1,4 @@
+
 h1{
   color: white;
     position: absolute;
@@ -8,3 +9,8 @@ h1{
     font-size: xx-large;
     font: Balloon Pops;
   }
+
+.rs6-container{
+  position: absolute;
+  down: 10%;
+}
