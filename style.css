@@ -1,5 +1,5 @@
 
-h1{
+.absolute-title{
   color: white;
     position: absolute;
     left: 40%;
@@ -10,3 +10,4 @@ h1{
     font: Balloon Pops;
   }
 
+  
